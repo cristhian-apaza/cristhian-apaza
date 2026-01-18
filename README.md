@@ -6,19 +6,19 @@ Hola, mi nombre es Cristhian Apaza tengo +9 años de experiencia en el desarroll
 
 # Contribuciones
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/el-babas/el-babas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/el-babas/el-babas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/el-babas/el-babas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristhian-apaza/cristhian-apaza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristhian-apaza/cristhian-apaza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristhian-apaza/cristhian-apaza/output/github-contribution-grid-snake.svg">
 </picture>
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-babas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
-![](https://github-readme-stats.vercel.app/api?username=el-babas&theme=dark&hide_border=false&include_all_commits=true&count_private=true\&rank_icon=github)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhian-apaza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cristhian-apaza&theme=dark&hide_border=false&include_all_commits=true&count_private=true\&rank_icon=github)<br/>
 
 # Redes Sociales
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/889305881265721344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@cristhian.cjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhian-apaza) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@cristhian.cjaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CristhianJos11) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=el-babas&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cristhian-apaza&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
